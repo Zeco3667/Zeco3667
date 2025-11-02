@@ -19,7 +19,7 @@ I plan to pursue a **bachelor’s degree in Computer Science or Information Tech
 
 ---
 
-## 🔬 Current Research
+##  Current Research
 **Project:** *Comparative Analysis of Shortest Path Algorithms Across Hardware Platforms*  
 This independent research project analyzes the real-world performance of algorithms such as **Dijkstra**, **Bellman-Ford**, **A\***, and **BFS** across different computing environments.
 
