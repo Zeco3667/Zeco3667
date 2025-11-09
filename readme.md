@@ -1,7 +1,7 @@
 # Hi, I'm Jacob Valenzuela  
 
  **High School Senior 
- Glen A. Wilson High School, Class of 2025  
+ Glen A. Wilson High School, Class of 2026  
 
 ---
 
@@ -42,19 +42,18 @@ Key focus areas:
 ## Education
 -  *Glen A. Wilson High School* — Class of 2026
   - Computer Science Pathway Completion  
-  - Certificate in Networking (Expected 2025)
+  - Certificate in Networking (Expected 2026)
 
 ---
 
 ## Goals
 - Continue developing as a researcher and programmer.  
-- Pursue higher education in **Computer Science** or **Information Technology**.  
-- Explore interests in **network infrastructure**, **algorithmic systems**, and **applied computing**.  
+- Pursue higher education in **Computer Science** or **Information Technology**.   
 
 ---
 
 ## Connection
- **Email:** [zeco3667@example.com]  
+ **Email:** [zeco3667@gmail.com]  
  **GitHub:** [github.com/Zeco3667](https://github.com/Zeco3667)  
 
 ---
