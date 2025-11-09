@@ -40,7 +40,7 @@ Key focus areas:
 ---
 
 ## Education
--  *Glen A. Wilson High School* — Class of 2025  
+-  *Glen A. Wilson High School* — Class of 2026
   - Computer Science Pathway Completion  
   - Certificate in Networking (Expected 2025)
 
